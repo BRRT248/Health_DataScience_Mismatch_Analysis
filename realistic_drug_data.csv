@@ -1,0 +1,55 @@
+disease,prevalence_rate,number_of_drugs
+Diabetes,0.1749,43
+Hypertension,0.2901,60
+Asthma,0.0759,20
+COPD,0.0639,19
+Breast Cancer,0.004,17
+Lung Cancer,0.004,23
+Prostate Cancer,0.0021,32
+Colorectal Cancer,0.0175,49
+Depression,0.0641,20
+Anxiety Disorder,0.0737,17
+Schizophrenia,0.0119,22
+Parkinson's Disease,0.0973,19
+Alzheimer's Disease,0.0849,17
+Epilepsy,0.0291,13
+Multiple Sclerosis,0.0264,19
+Rheumatoid Arthritis,0.0265,17
+Psoriasis,0.0374,5
+Systemic Lupus Erythematosus,0.0572,11
+Cystic Fibrosis,0.00049,1
+Sickle Cell Disease,0.0362,5
+Leukemia,0.0651,16
+Lymphoma,0.0226,12
+Melanoma,0.0363,15
+Hepatitis C,0.043,23
+HIV/AIDS,0.051,21
+Crohn's Disease,0.0807,12
+Ulcerative Colitis,0.028,7
+Endometriosis,0.0563,7
+Polycystic Ovary Syndrome,0.0633,5
+Thyroid Disorder,0.0142,9
+Migraine,0.0647,14
+Gout,0.0253,11
+Obesity,0.113,70
+Sleep Apnea,0.0954,11
+Glaucoma,0.0969,13
+Macular Degeneration,0.0828,12
+Osteoporosis,0.0374,16
+Fibromyalgia,0.0188,6
+Ankylosing Spondylitis,0.0716,5
+ALS,0.0005,4
+Spinal Muscular Atrophy,0.021,9
+Eczema,0.0546,7
+GERD,0.0131,16
+Celiac Disease,0.0918,12
+Vertigo,0.0333,7
+Chronic Kidney Disease,0.0696,5
+Pancreatic Cancer,0.0069,44
+Esophageal Cancer,0.0109,46
+Stomach Cancer,0.0114,23
+Bladder Cancer,0.0045,12
+Brain Tumor,0.0194,10
+Testicular Cancer,0.0157,14
+Bone Cancer,0.0189,35
+Neuroblastoma,0.00091,3
